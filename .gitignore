@@ -1,0 +1,15 @@
+# archivos de entorno
+.env
+token.json
+credentials.json
+
+# archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# entornos virtuales
+venv/
+.venv/
+env/
