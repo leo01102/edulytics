@@ -96,28 +96,6 @@ python src/main.py
 
 The script will then process all entries in the Google Sheet and send out emails accordingly.
 
-## Project Structure
-
-```
-university-feedback-system/
-│
-├── src/
-│   ├── __init__.py
-│   ├── columnas_config.py
-│   ├── data_analysis_module.py
-│   ├── data_processing_module.py
-│   ├── email_module.py
-│   ├── main.py
-│   ├── openai_module.py
-│   ├── sheets_module.py
-│   └── variables.py
-│
-├── .env.example
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
