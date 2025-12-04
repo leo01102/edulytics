@@ -1,4 +1,4 @@
-# University Feedback System
+# Edulytics
 
 An automated script that fetches student feedback from a Google Sheet, performs data analysis, generates personalized recommendations using OpenAI's API, and sends them to students via email.
 
@@ -37,8 +37,8 @@ Follow these steps to set up the project locally.
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/leo01102/university-feedback-system.git
-cd university-feedback-system
+git clone https://github.com/leo01102/edulytics.git
+cd edulytics
 ```
 
 **2. Create and activate a virtual environment:**
